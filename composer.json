@@ -1,4 +1,10 @@
 {
+    "name": "deliverpix/api",
+    "description": "The devilerpix control api",
+    "authors": [
+        {"name": "James Plant", "homepage": "https://github.com/NetworkMonk/"}
+    ],
+    "homepage": "https://github.com/NetworkMonk/deliverpix-api",
     "require": {
         "vlucas/phpdotenv": "^2.4",
         "aws/aws-sdk-php": "^3.140"
